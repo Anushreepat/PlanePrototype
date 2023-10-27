@@ -2,4 +2,4 @@ Link to play: [https://play.unity.com/mg/other/webgl-builds-368095](https://play
 
 Controls for player:
 
-'W', 'S', 'A' and 'D'to move plane.
+'W', 'S', 'A' and 'D' or arrow keys to move plane.
